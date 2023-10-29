@@ -13,7 +13,6 @@ The AI Health Coach has two primary functionalities:
 
 ## Installation
 
-*(Note: Placeholder instructions. Adjust as necessary.)*
 1. Clone the repository.
 2. Set up a virtual environment (optional but recommended).
 3. Install the required libraries and dependencies.
